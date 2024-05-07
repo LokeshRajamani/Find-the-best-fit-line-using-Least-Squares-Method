@@ -1,5 +1,5 @@
 # Implementation of Univariate Linear Regression
-# Date: 
+# Date: 10.02.2024
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
